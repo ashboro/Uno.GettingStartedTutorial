@@ -14,6 +14,10 @@ using Windows.UI.Xaml.Media;
 
 namespace BugTracker.Droid
 {
+
+    /// <summary>
+    /// To git Hub
+    /// </summary>
     [global::Android.App.ApplicationAttribute(
         Label = "@string/ApplicationName",
         LargeHeap = true,
